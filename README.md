@@ -2,6 +2,11 @@
 
 A fundamental and financial analysis of the **Telecommunication Company of Iran** (Tehran Stock Exchange ticker: **Akhaber**), prepared as a B.Sc. Corporate Finance course project. It combines an industry and strategy review with a spreadsheet model of the company's financial statements, ratios, valuation multiples, beta and break-even points. TCI is compared with two listed peers: **Hamrah-e Aval (MCI)** and **Asiatech**.
 
+- **Instructor:** Dr. Hajizadeh
+- **Course:** Corporate Finance
+- **Department:** Industrial Engineering, Amirkabir University of Technology (Tehran Polytechnic)
+- **Author:** Paniz Otaghi
+
 ## What's inside
 
 | Part | Content |
